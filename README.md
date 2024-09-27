@@ -17,7 +17,7 @@ Whether you're looking to generate images for a creative project or just want to
 > All info about will be added on [PAGE](https://tiarait.github.io/AI-MUSE-Intro/)
 
 # Dev stack
-TODO
+> Kotlin, Android, Compose, MVVM, Room, REST API
 
 AI MUSE is released under the [Apache-2.0](LICENSE).
 
