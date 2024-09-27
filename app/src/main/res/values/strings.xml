@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">AI Muse</string>
+    <string name="app_slogan">Transform your ideas into best visualization</string>
+    <string name="app_slogan_d">Elevate your digital image with ease and unlock a best visualization image with Ai Muse</string>
+
+    <string name="empty_images">You haven\'t created any images yet.</string>
+    <string name="about_text">Hello everyone, I\'m a developer from Ukraine. If you have any suggestions for an app or cooperation - write to me.</string>
+    <string name="ads_text">This is a place for ads (while your images are being created)</string>
+    <string name="about">About</string>
+    <string name="gallery">Gallery</string>
+    <string name="result">Result</string>
+    <string name="delete">Delete</string>
+    <string name="deleted">Deleted</string>
+    <string name="share">Share</string>
+    <string name="edit">Edit</string>
+    <string name="download">Download</string>
+    <string name="done">Done</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="cancel_all">Cancel all</string>
+    <string name="question">Are you sure?</string>
+    <string name="start">Get started</string>
+    <string name="create_image">Create AI Image</string>
+
+    <string name="random">Random</string>
+    <string name="count">Count</string>
+    <string name="aspect_ratio">Aspect Ratio</string>
+    <string name="model">Model</string>
+    <string name="prompt">Prompt</string>
+    <string name="prompt_negative">Negative prompt</string>
+    <string name="prompt_negative_text">things you don\’t want in the image</string>
+    <string name="seed">Seed</string>
+    <string name="guidance_scale">Guidance scale</string>
+    <string name="lora_scale">Lora scale</string>
+    <string name="steps">Steps</string>
+    <string name="source">Source</string>
+    <string name="similar">Similar prompt</string>
+    <string name="copies_images">Copies of images</string>
+    <string name="generate">Generate</string>
+    <string name="reset">Reset</string>
+    <string name="less">Less</string>
+    <string name="more">More</string>
+    <string name="custom">Custom</string>
+    <string name="init_image">Init image</string>
+    <string name="strength">Strength</string>
+
+    <string name="settings">Settings</string>
+    <string name="setting_remember_prompt">Remember last prompt</string>
+    <string name="setting_nsfw_filtered">Nsfw filtered</string>
+    <string name="setting_sources">Sources</string>
+
+    <string name="not_available">Not available</string>
+    <string name="not_available_seed">Seed must be -1 (Random)</string>
+    <string name="not_available_pro">Available only in PRO version</string>
+
+    <string name="status_check_verify">User check verify</string>
+    <string name="status_new_token">Get new token</string>
+    <string name="status_new_token_failed">Get token failed</string>
+    <string name="status_user_keys">Get user keys</string>
+    <string name="status_generate_images">Generate images</string>
+    <string name="status_nsfw">Nsfw detected</string>
+    <string name="title_activity_ads">AdsActivity</string>
+    <string name="open">Open</string>
+    <string name="select">Select</string>
+    <string name="open_link_q">Open link?</string>
+    <string name="open_link_d">The link will be opened in your default browser which is not related to the application</string>
+
+</resources>

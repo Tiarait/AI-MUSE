@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.Ai" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <!--        <item name="android:windowFullscreen">true</item>-->
+        <item name="android:windowTranslucentNavigation">true</item>
+        <!--        <item name="android:windowTranslucentNavigation">false</item>-->
+        <!--        <item name="android:navigationBarColor">@color/dark</item>-->
+        <item name="android:windowTranslucentStatus">true</item>
+
+        <item name="android:windowBackground">@color/bg</item>
+        <item name="android:statusBarColor">@color/status</item>
+        <item name="android:navigationBarColor">@color/status</item>
+
+        <item name="android:dialogTheme">@style/Theme.DialogFullScreen</item>
+    </style>
+
+    <style name="Theme.Transparent" parent="Theme.Ai">
+        <item name="android:backdropColor" tools:targetApi="tiramisu">@android:color/transparent</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+
+
+    <style name="Theme.Ai.Splash" parent="Theme.Ai">
+        <item name="android:windowBackground">@color/black</item>
+    </style>
+
+    <style name="Theme.DialogFullScreen" parent="android:Theme.Material.Dialog.NoActionBar">
+        <item name="android:windowMinWidthMajor">100%</item>
+        <item name="android:windowMinWidthMinor">100%</item>
+    </style>
+</resources>
